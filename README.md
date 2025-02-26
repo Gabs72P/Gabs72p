@@ -1,16 +1,32 @@
-## Hi there 👋
+<h1 align="left">Hey! What's up?</h1>
 
-<!--
-**Gabs72P/Gabs72p** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<p align="left">My name is Gabriel H Pereira, 25. I'm a data analyst, from São Paulo, Brazil.</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">I'm currently graduating in accounting and learning even more about data science and technology.<br><br>I've always been fascinated by technology, math and languages.<br><br>And I came here to start my tech journey, and show the world what I can do.</p>
+
+###
+
+<h2 align="left">Tools I use... for now.</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img width="48" height="48" src="https://img.icons8.com/color/48/sql.png" alt="sql"   />
+  <img width="12" />
+  <img width="48" height="48" src="https://img.icons8.com/color/48/power-bi-2021.png" alt="power-bi-2021"   />
+  <img width="12" />
+  <img width="48" height="48" src="https://img.icons8.com/fluency/48/ms-excel.png" alt="ms-excel"   />
+  
+</div>
+
+###
